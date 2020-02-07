@@ -1,0 +1,21 @@
+>>> Warning 230 "alarma.c" Line 80(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 81(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 82(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 83(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 84(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 85(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 86(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 87(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 88(37,38): String truncated
+>>> Warning 230 "alarma.c" Line 89(38,39): String truncated
+>>> Warning 216 "alarma.c" Line 492(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_bytes)
+>>> Warning 216 "alarma.c" Line 492(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "alarma.c" Line 492(0,1): Interrupts disabled during call to prevent re-entrancy:  (lcd_string)
+>>> Warning 202 "alarma.c" Line 84(6,14): Variable never used:   mensaje5
+>>> Warning 202 "alarma.c" Line 85(6,14): Variable never used:   mensaje6
+>>> Warning 202 "alarma.c" Line 86(6,14): Variable never used:   mensaje7
+>>> Warning 202 "alarma.c" Line 87(6,14): Variable never used:   mensaje8
+>>> Warning 202 "alarma.c" Line 93(5,17): Variable never used:   estadoalarma
+>>> Warning 202 "alarma.c" Line 100(5,10): Variable never used:   sonar
+      Memory usage:   ROM=24%      RAM=54% - 62%
+      0 Errors,  19 Warnings.
